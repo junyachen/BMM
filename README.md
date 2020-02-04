@@ -12,13 +12,11 @@ Please cite the following paper for your reference:
 
 Chen, J., Gong, Z. & Liu, W. Appl Intell (2020). https://doi.org/10.1007/s10489-019-01606-1
 
-@Article{Chen2020,
-author="Chen, Junyang
-and Gong, Zhiguo
-and Liu, Weiwen",
-title="A Dirichlet process biterm-based mixture model for short text stream clustering",
-journal="Applied Intelligence",
-year="2020",
-doi="10.1007/s10489-019-01606-1",
-url="https://doi.org/10.1007/s10489-019-01606-1"
+
+@article{chendirichlet,
+  title={A Dirichlet process biterm-based mixture model for short text stream clustering},
+  author={Chen, Junyang and Gong, Zhiguo and Liu, Weiwen},
+  journal={Applied Intelligence},
+  pages={1--11},
+  publisher={Springer}
 }
