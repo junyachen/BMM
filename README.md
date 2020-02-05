@@ -18,5 +18,6 @@ Chen, J., Gong, Z. & Liu, W. Appl Intell (2020). https://doi.org/10.1007/s10489-
   author={Chen, Junyang and Gong, Zhiguo and Liu, Weiwen},
   journal={Applied Intelligence},
   pages={1--11},
+  year={2020}, 
   publisher={Springer}
 }
