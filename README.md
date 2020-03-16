@@ -6,6 +6,8 @@ The source code of 'A Dirichlet Process Biterm-based Mixture Model for Short Tex
 
 https://rdcu.be/b03jH
 
+or https://github.com/junyachen/BMM/blob/master/Chen2020_Article_ADirichletProcessBiterm-basedM.pdf
+
 # Citation
 
 Please cite the following paper for your reference:
